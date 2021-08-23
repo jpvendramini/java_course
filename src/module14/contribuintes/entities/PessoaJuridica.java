@@ -1,4 +1,4 @@
-package contribuintes.entities;
+package module14.contribuintes.entities;
 
 public class PessoaJuridica extends Pessoa{
     private int funcionarios;

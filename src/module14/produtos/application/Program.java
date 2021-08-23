@@ -1,8 +1,8 @@
-package produtos.application;
+package module14.produtos.application;
 
-import produtos.entities.ImportedProduct;
-import produtos.entities.Product;
-import produtos.entities.UserProduct;
+import module14.produtos.entities.ImportedProduct;
+import module14.produtos.entities.Product;
+import module14.produtos.entities.UserProduct;
 
 import java.util.ArrayList;
 import java.util.List;

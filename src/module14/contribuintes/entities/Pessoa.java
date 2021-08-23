@@ -1,4 +1,4 @@
-package contribuintes.entities;
+package module14.contribuintes.entities;
 
 public abstract class Pessoa {
     private String name;

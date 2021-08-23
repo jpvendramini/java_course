@@ -1,4 +1,4 @@
-package employees.entities;
+package module14.employees.entities;
 
 public class OutsourcedEmployee extends Employee{
     private Double additionalCharge;

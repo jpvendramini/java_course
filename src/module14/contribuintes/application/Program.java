@@ -1,8 +1,8 @@
-package contribuintes.application;
+package module14.contribuintes.application;
 
-import contribuintes.entities.Pessoa;
-import contribuintes.entities.PessoaFisica;
-import contribuintes.entities.PessoaJuridica;
+import module14.contribuintes.entities.Pessoa;
+import module14.contribuintes.entities.PessoaFisica;
+import module14.contribuintes.entities.PessoaJuridica;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,7 +29,7 @@ public class Program {
                 Double health = sc.nextDouble();
                 pessoaList.add(new PessoaFisica(name,annualIncome,health));
             }else{
-                System.out.print("Number of employees: ");
+                System.out.print("Number of module14.employees: ");
                 int funcionarios = sc.nextInt();
                 pessoaList.add(new PessoaJuridica(name, annualIncome, funcionarios));
             }

@@ -1,7 +1,7 @@
-package employees.application;
+package module14.employees.application;
 
-import employees.entities.Employee;
-import employees.entities.OutsourcedEmployee;
+import module14.employees.entities.Employee;
+import module14.employees.entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ public class Program {
 
         List<Employee> employeeList = new ArrayList<>();
 
-        System.out.println("Enter the number of employees:");
+        System.out.println("Enter the number of module14.employees:");
         int n = scanner.nextInt();
 
         for (int i =1; i<=n;i++){

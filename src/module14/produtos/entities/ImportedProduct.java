@@ -1,4 +1,4 @@
-package produtos.entities;
+package module14.produtos.entities;
 
 public class ImportedProduct extends Product {
     private Double customsFee;

@@ -1,6 +1,4 @@
-package produtos.entities;
-
-import java.util.Date;
+package module14.produtos.entities;
 
 public class UserProduct extends Product{
     private String manufactureDate;

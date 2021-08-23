@@ -1,4 +1,4 @@
-package abstratos.entities;
+package module14.abstratos.entities;
 
 public class Rectangle extends Shape{
     private double width;

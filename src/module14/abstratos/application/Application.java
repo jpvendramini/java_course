@@ -1,9 +1,9 @@
-package abstratos.application;
+package module14.abstratos.application;
 
-import abstratos.entities.Circle;
-import abstratos.entities.Color;
-import abstratos.entities.Rectangle;
-import abstratos.entities.Shape;
+import module14.abstratos.entities.Circle;
+import module14.abstratos.entities.Color;
+import module14.abstratos.entities.Rectangle;
+import module14.abstratos.entities.Shape;
 
 import java.util.ArrayList;
 import java.util.List;
