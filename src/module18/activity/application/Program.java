@@ -3,7 +3,6 @@ package module18.activity.application;
 import module18.activity.domain.Contract;
 import module18.activity.domain.Installment;
 import module18.activity.service.ContractService;
-import module18.activity.service.OnlinePaymentService;
 import module18.activity.service.PaypalService;
 
 import java.text.ParseException;
